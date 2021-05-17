@@ -7,6 +7,9 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Daniel Von Paraski"
+        },
+        {
             "name": "Diogo Corazolla",
             "email": "diogocorazolla@gmail.com"
         },
@@ -20,7 +23,7 @@
         }
     ],
     "require": {
-        "php" : ">=5.5",
+        "php" : ">=7.2",
         "adodb/adodb-php": "^5.20",
         "phpmailer/phpmailer": "~6.1",
         "endroid/qr-code": "^3.9",

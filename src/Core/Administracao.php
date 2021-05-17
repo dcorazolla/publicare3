@@ -33,8 +33,6 @@ namespace Pbl\Core;
 use Pbl\Core\Base;
 use Pbl\Core\Objeto;
 
-
-
 /**
  * Classe que contém métodos para manipulação de objetos
  */
